@@ -1,0 +1,7 @@
+h1{
+    border-bottom: 4px solid blue ;
+}
+h2{
+    border-left: 4px solid rgb(155, 248, 248);
+    padding-left: 1rem;
+}
